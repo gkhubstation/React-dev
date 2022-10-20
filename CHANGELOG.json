@@ -1,0 +1,22 @@
+{
+  "name": "is-wds",
+  "entries": [
+    {
+      "date": "Thu, 20 Oct 2022 16:09:52 GMT",
+      "tag": "is-wds_v1.1.0",
+      "version": "1.1.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "gautam.kumar@wabtec.com",
+            "package": "is-wds",
+            "commit": "e67d353d82cb6ca30ef93cf1e2e4f09cd54c348a",
+            "comment": {
+              "title": ""
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
