@@ -1,0 +1,9 @@
+{
+  "type": "minor",
+  "comment": {
+    "title": ""
+  },
+  "packageName": "is-wds",
+  "email": "gautam.kumar@wabtec.com",
+  "dependentChangeType": "patch"
+}
