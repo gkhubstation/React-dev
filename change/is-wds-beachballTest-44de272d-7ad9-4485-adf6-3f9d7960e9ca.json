@@ -1,7 +1,0 @@
-{
-  "type": "minor",
-  "comment": "This is a test change",
-  "packageName": "is-wds-beachballTest",
-  "email": "gautam.kumar@wabtec.com",
-  "dependentChangeType": "patch"
-}

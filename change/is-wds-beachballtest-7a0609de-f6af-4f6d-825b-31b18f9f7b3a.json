@@ -1,0 +1,7 @@
+{
+  "type": "major",
+  "comment": "This is a test for a major version change",
+  "packageName": "is-wds-beachballtest",
+  "email": "gautam.kumar@wabtec.com",
+  "dependentChangeType": "patch"
+}
