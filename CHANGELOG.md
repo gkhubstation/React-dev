@@ -1,8 +1,16 @@
-# Change Log - is-wds-beachball
+# Change Log - is-wds-testbeachball
 
-This log was last generated on Fri, 21 Oct 2022 15:36:32 GMT and should not be manually modified.
+This log was last generated on Fri, 21 Oct 2022 15:50:00 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.3.0
+
+Fri, 21 Oct 2022 15:50:00 GMT
+
+### Minor changes
+
+- [object Object] (gautam.kumar@wabtec.com)
 
 ## 1.2.0
 
