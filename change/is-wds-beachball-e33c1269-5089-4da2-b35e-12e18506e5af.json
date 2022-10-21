@@ -1,7 +1,0 @@
-{
-  "type": "minor",
-  "comment": "Change files",
-  "packageName": "is-wds-beachball",
-  "email": "gautam.kumar@wabtec.com",
-  "dependentChangeType": "patch"
-}

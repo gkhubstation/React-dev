@@ -1,6 +1,21 @@
 {
-  "name": "is-wds",
+  "name": "is-wds-beachball",
   "entries": [
+    {
+      "date": "Fri, 21 Oct 2022 15:36:32 GMT",
+      "tag": "is-wds-beachball_v1.2.0",
+      "version": "1.2.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "gautam.kumar@wabtec.com",
+            "package": "is-wds-beachball",
+            "commit": "d1fc87d7d4db4bf7a69edeee1bd0515f82ae2e40",
+            "comment": "Change files"
+          }
+        ]
+      }
+    },
     {
       "date": "Thu, 20 Oct 2022 16:09:52 GMT",
       "tag": "is-wds_v1.1.0",
