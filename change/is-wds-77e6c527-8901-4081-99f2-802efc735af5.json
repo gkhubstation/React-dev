@@ -1,0 +1,7 @@
+{
+  "type": "patch",
+  "comment": "Updated index.js",
+  "packageName": "is-wds",
+  "email": "gautam.kumar@wabtec.com",
+  "dependentChangeType": "patch"
+}
