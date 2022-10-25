@@ -1,0 +1,7 @@
+{
+  "type": "patch",
+  "comment": "testfeed changes",
+  "packageName": "is-wds",
+  "email": "gautam.kumar@wabtec.com",
+  "dependentChangeType": "patch"
+}
